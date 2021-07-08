@@ -1,6 +1,8 @@
+/*
 Authorship: 	Gabriel S. Lima - gabriel.lima.095@ufrn.edu.br, 
 		Victor R. F. Moreira - victor.moreira.086@ufrn.edu.br, 
 		Wallace M. Bessa - wmobes@utu.fi
+*/
 
 #define _USE_MATH_DEFINES // for C++
 #define ARMA_USE_CXX11
