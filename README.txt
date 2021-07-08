@@ -35,9 +35,9 @@ The columns of the results file are divided as follows:
 [26] torque for the wheel 1	
 [27] torque for the wheel 2
 [28] torque for the wheel 3
-[29] angular speed for the wheel 1	
-[30] angular speed for the wheel 2
-[31] angular speed for the wheel 3
+[29] angular velocity for the wheel 1	
+[30] angular velocity for the wheel 2
+[31] angular velocity for the wheel 3
 [32] uncertainty estimation for x
 [33] uncertainty estimation for y
 [34] uncertainty estimation for the angle
