@@ -41,3 +41,11 @@ The columns of the results file are divided as follows:
 [32] uncertainty estimation for x
 [33] uncertainty estimation for y
 [34] uncertainty estimation for the angle
+
+The Armadillo library [1] is needed for the implementation.
+
+[1] Sanderson, C. and Curtin, R., 2016. Armadillo: a template-based C++ library for linear algebra. Journal of Open Source Software, 1(2), p.26.
+
+Authorship: 	Gabriel S. Lima - gabriel.lima.095@ufrn.edu.br, 
+		          Victor R. F. Moreira - victorramon@ufrn.edu.br, 
+		          Wallace M. Bessa - wmobes@utu.fi
