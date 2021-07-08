@@ -1,6 +1,8 @@
+/*
 Authorship: 	Gabriel S. Lima - gabriel.lima.095@ufrn.edu.br, 
-		Victor R. F. Moreira - victorramon@ufrn.edu.br, 
+		Victor R. F. Moreira - victor.moreira.086@ufrn.edu.br, 
 		Wallace M. Bessa - wmobes@utu.fi
+*/
 
 #define M_PI 3.14159265358979323846
 
