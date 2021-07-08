@@ -1,5 +1,11 @@
+Intelligent control with adaptive neural networks of an omnidirectional mobile robot subject to unmodeled dynamics
+
+Gabriel S. Lima, gabriel.lima.095@ufrn.edu.br, 
+Victor R. F. Moreira, victorramon@ufrn.edu.br, 
+Wallace M. Bessa, wmobes@utu.fi
+
 In this project you can find the:
-(a) codes utilized for implementating the intelligent controller for a Robotino, an omnidirectional mobile robot made by Festo Didactic;
+(a) codes used for implementating the intelligent controller for a Robotino, an omnidirectional mobile robot made by Festo Didactic;
 (b) and all the results obtained by this implementation considering the intelligent and conventional approaches.
 
 The codes are separated in two parts:
@@ -45,7 +51,3 @@ The columns of the results file are divided as follows:
 The Armadillo library [1] is needed for the implementation.
 
 [1] Sanderson, C. and Curtin, R., 2016. Armadillo: a template-based C++ library for linear algebra. Journal of Open Source Software, 1(2), p.26.
-
-Authorship: 	Gabriel S. Lima - gabriel.lima.095@ufrn.edu.br, 
-		          Victor R. F. Moreira - victorramon@ufrn.edu.br, 
-		          Wallace M. Bessa - wmobes@utu.fi
