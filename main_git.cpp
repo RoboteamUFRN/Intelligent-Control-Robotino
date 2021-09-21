@@ -137,14 +137,14 @@ void drive()
 	Q(2) = 0.0;			/* Q(2) -> phi */
 	Phi = (odometry.phi() * M_PI) / 180.0;
 
-	lambda.fill(3.0);						
-	cam = { 0.5, 0.5, 2.0 };
+	lambda.fill(1.0);						
+	cam = { 0.5, 0.5, 3.0 };
 
 	/*ANN*/
 	arma::mat weight(7, 3), center(7, 3), width(7, 3);
 	arma::vec learn(3), d_est(3);
 	weight.fill(0.0);
-	learn = { 15.0, 15.0, 25.0 };
+	learn = { 30.0, 30.0, 35.0 };
 
 	d_est.fill(0.0);
 
