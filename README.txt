@@ -1,7 +1,7 @@
 Intelligent control with adaptive neural networks of an omnidirectional mobile robot subject to unmodeled dynamics
 
 Gabriel S. Lima, gabriel.lima.095@ufrn.edu.br, 
-Victor R. F. Moreira, victor.moreira.086@ufrn.edu.br, 
+Victor R. F. Moreira, victor.moreira@ufrn.br, 
 Wallace M. Bessa, wmobes@utu.fi
 
 In this project you can find the:
